@@ -12,7 +12,7 @@ This repository is created as a part of evaluation for course- Machine Learning
 * Here we have created a model that directly predicts a class for a new data point based off of the features for particular company.
 
 ### Support-Vector-Machine
-* Dataset used: sns.load_dataset('iris')
+* Dataset used: Iris flower data set
 * blog link: [Support-Vector-Machine](https://www.linkedin.com/pulse/support-vector-machine-rupesh-sharma) 
 * The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
